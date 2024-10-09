@@ -53,4 +53,4 @@ Hexadecimal and HTML entity encoding proved effective in bypassing the filters t
 Web developers should employ additional layers of defense, such as Content Security Policy (CSP) and input validation, rather than relying solely on WAFs to prevent XSS attacks.
 WAFs should implement deeper inspection methods capable of decoding or normalizing input before applying filters.
 5. Python Script and Documentation on GitHub
-The Python script and testing documentation can be found on GitHub:
+The Python script and testing documentation can be found on GitHub:https://github.com/Sajin25/evasion/blob/main/eva.py
